@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Anime List</string>
 
+    <string name="bottom_home_item">Accueil</string>
+    <string name="bottom_collection_item">Collection</string>
+    <string name="bottom_add_anime_item">Ajouter</string>
+
     <!-- Page d'accueil -->
     <string name="home_page_title">À découvrir</string>
     <string name="home_page_last_anime_section">Derniers animes</string>
