@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Anime List</string>
+
+    <!-- Page d'accueil -->
+    <string name="home_page_title">À découvrir</string>
+    <string name="home_page_last_anime_section">Derniers animes</string>
+
+    <!-- Page de Collection -->
+    <string name="collection_page_title">Ma Collection</string>
+
+    <!-- Page d'ajout de plantes -->
+    <string name="add_anime_page_title">Ajouter un anime</string>
+    <string name="add_anime_page_upload_button">Charger Image</string>
+    <string name="add_anime_page_name_input">@string/item_anime_name</string>
+    <string name="add_anime_page_name_description_input">@string/item_anime_description</string>
+
+    <string-array name="add_anime_page_category_spinner_input">
+        <item>Catégorie : Action</item>
+        <item>Catégorie : Aventure</item>
+        <item>Catégorie : Comédie</item>
+        <item>Catégorie : Drame</item>
+        <item>Catégorie : Slice of Life</item>
+        <item>Catégorie : Fantaisie</item>
+        <item>Catégorie : Magie</item>
+        <item>Catégorie : Supernaturel</item>
+        <item>Catégorie : Horreur</item>
+        <item>Catégorie : Mystère</item>
+        <item>Catégorie : Psychologique</item>
+        <item>Catégorie : Romance</item>
+        <item>Catégorie : Shônen</item>
+        <item>Catégorie : Seinen</item>
+    </string-array>
+
+    <string-array name="add_anime_page_status_spinner_input">
+        <item>Status : En cours de visionnage</item>
+        <item>Status : Abandonné</item>
+        <item>Status : Terminé</item>
+    </string-array>
+
+    <string name="add_anime_page_confirm_button">Confirmer</string>
+
+    <!-- Fenêtre Popup de détails -->
+    <string name="popup_anime_name">Anime Name</string>
+    <string name="popup_anime_description_title">Description</string>
+    <string name="popup_anime_description_subtitle">Petite description</string>
+    <string name="popup_anime_category_title">Catégorie</string>
+    <string name="popup_anime_category_subtitle">Shônen</string>
+    <string name="popup_anime_status_title">Status</string>
+    <string name="popup_anime_status_subtitle">En cours de visionnage</string>
+
+    <!-- Animes customisées -->
+    <string name="item_anime_name">Nom de l\'anime</string>
+    <string name="item_anime_description">Description de l\'anime</string>
+
+</resources>

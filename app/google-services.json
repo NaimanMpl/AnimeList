@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479788285276",
+    "project_id": "anime-list-d995b",
+    "storage_bucket": "anime-list-d995b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479788285276:android:ba7826d8897dbc60b4d599",
+        "android_client_info": {
+          "package_name": "fr.zelphix.naturecollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479788285276-fq9g3sc7np9jm0l6nce0e4co76k2moj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARA6VUj7E-ZMbKpRhuHGE5oIJ1u9uPT18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479788285276-fq9g3sc7np9jm0l6nce0e4co76k2moj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
